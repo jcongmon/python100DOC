@@ -1,0 +1,14 @@
+{
+    "0": {
+        "name": "Air France-KLM Flying Blue",
+        "percentage": "25%",
+        "conversion": "1:1.25",
+        "end_date": "2023-05-22"
+    },
+    "1": {
+        "name": "Avianca LifeMiles",
+        "percentage": "15%",
+        "conversion": "1:1.15",
+        "end_date": "2023-05-31"
+    }
+}
