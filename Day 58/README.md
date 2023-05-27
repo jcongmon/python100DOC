@@ -1,8 +1,1 @@
-Day 58
-
-Family in town
-Graduation
-Home
-Rest
-Packing
-Hold
+Day 58 - Tinder for Dogs Landing Page (HTML, CSS, Bootstrap)
